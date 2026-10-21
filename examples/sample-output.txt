@@ -1,0 +1,9 @@
+$ python detect.py SivanRP git-backdate-demo
+repo created (server time): 2026-10-22T19:25:42+00:00
+
+BACKDATED  2026-10-15  .......  Start backdating demo
+BACKDATED  2026-10-16  .......  Add backdate.sh
+...
+ok         2026-10-22  .......  Initial commit
+
+7 of 8 commits claim to predate the repo itself.
